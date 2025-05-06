@@ -57,7 +57,7 @@ Follow these steps to set up the system:
 1. **Clone the repository**  
     ```bash
    git clone https://github.com/kisanpoonia163/DDOS-Detection-and-Protection-System.git
-   cd ddos-monitor
+   cd DDOS-Detection-and-Protection-System
 
 2. **Set up a Virtual Environment**
 
