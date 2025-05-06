@@ -1,0 +1,7 @@
+# requirements.txt
+
+configparser>=5.0.0
+matplotlib>=3.0.0
+PyQt5>=5.15.0
+requests>=2.20.0
+scapy>=2.4.0
