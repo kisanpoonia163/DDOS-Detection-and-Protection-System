@@ -55,8 +55,8 @@ A real-time, Python-based DDoS monitoring, detection, and mitigation tool with a
 Follow these steps to set up the system:
 
 1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/ddos-monitor.git
+    ```bash
+   git clone https://github.com/kisanpoonia163/DDOS-Detection-and-Protection-System.git
    cd ddos-monitor
 
 2. **Set up a Virtual Environment**
@@ -70,8 +70,10 @@ python3 -m venv venv
 # Activate the virtual environment
 source venv/bin/activate
 
+
 3. **Install Project Dependencies**
 
 With the virtual environment active, install all required Python packages using the requirements.txt file:
 
-  pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
